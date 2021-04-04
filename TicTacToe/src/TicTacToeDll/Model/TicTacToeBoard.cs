@@ -9,6 +9,7 @@ namespace TicTacToeDll.Model
         public int[,] Board { get; set; } = new int[3, 3];
         public StatusGame Status { get; set; } = StatusGame.InProgress;
         public Difficulty Difficulty { get; set; } = Difficulty.Easy;
+        public int Plays { get; set; }
     }
 
     public enum StatusGame

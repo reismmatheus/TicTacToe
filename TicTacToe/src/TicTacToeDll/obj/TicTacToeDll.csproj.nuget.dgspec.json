@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\www\\tic-tac-toe\\TicTacToe\\src\\TicTacToeDll\\TicTacToeDll.csproj": {}
+    "C:\\www\\tictactoe\\TicTacToe\\src\\TicTacToeDll\\TicTacToeDll.csproj": {}
   },
   "projects": {
-    "C:\\www\\tic-tac-toe\\TicTacToe\\src\\TicTacToeDll\\TicTacToeDll.csproj": {
+    "C:\\www\\tictactoe\\TicTacToe\\src\\TicTacToeDll\\TicTacToeDll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\www\\tic-tac-toe\\TicTacToe\\src\\TicTacToeDll\\TicTacToeDll.csproj",
+        "projectUniqueName": "C:\\www\\tictactoe\\TicTacToe\\src\\TicTacToeDll\\TicTacToeDll.csproj",
         "projectName": "TicTacToeDll",
-        "projectPath": "C:\\www\\tic-tac-toe\\TicTacToe\\src\\TicTacToeDll\\TicTacToeDll.csproj",
+        "projectPath": "C:\\www\\tictactoe\\TicTacToe\\src\\TicTacToeDll\\TicTacToeDll.csproj",
         "packagesPath": "C:\\Users\\reism\\.nuget\\packages\\",
-        "outputPath": "C:\\www\\tic-tac-toe\\TicTacToe\\src\\TicTacToeDll\\obj\\",
+        "outputPath": "C:\\www\\tictactoe\\TicTacToe\\src\\TicTacToeDll\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\reism\\AppData\\Roaming\\NuGet\\NuGet.Config",

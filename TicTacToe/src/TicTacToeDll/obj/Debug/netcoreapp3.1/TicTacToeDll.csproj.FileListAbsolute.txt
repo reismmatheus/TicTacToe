@@ -7,3 +7,12 @@ C:\www\tic-tac-toe\TicTacToe\src\TicTacToeDll\obj\Debug\netcoreapp3.1\TicTacToeD
 C:\www\tic-tac-toe\TicTacToe\src\TicTacToeDll\obj\Debug\netcoreapp3.1\TicTacToeDll.csproj.CoreCompileInputs.cache
 C:\www\tic-tac-toe\TicTacToe\src\TicTacToeDll\obj\Debug\netcoreapp3.1\TicTacToeDll.dll
 C:\www\tic-tac-toe\TicTacToe\src\TicTacToeDll\obj\Debug\netcoreapp3.1\TicTacToeDll.pdb
+C:\www\tictactoe\TicTacToe\src\TicTacToeDll\bin\Debug\netcoreapp3.1\TicTacToeDll.deps.json
+C:\www\tictactoe\TicTacToe\src\TicTacToeDll\bin\Debug\netcoreapp3.1\TicTacToeDll.dll
+C:\www\tictactoe\TicTacToe\src\TicTacToeDll\bin\Debug\netcoreapp3.1\TicTacToeDll.pdb
+C:\www\tictactoe\TicTacToe\src\TicTacToeDll\obj\Debug\netcoreapp3.1\TicTacToeDll.csprojAssemblyReference.cache
+C:\www\tictactoe\TicTacToe\src\TicTacToeDll\obj\Debug\netcoreapp3.1\TicTacToeDll.AssemblyInfoInputs.cache
+C:\www\tictactoe\TicTacToe\src\TicTacToeDll\obj\Debug\netcoreapp3.1\TicTacToeDll.AssemblyInfo.cs
+C:\www\tictactoe\TicTacToe\src\TicTacToeDll\obj\Debug\netcoreapp3.1\TicTacToeDll.csproj.CoreCompileInputs.cache
+C:\www\tictactoe\TicTacToe\src\TicTacToeDll\obj\Debug\netcoreapp3.1\TicTacToeDll.dll
+C:\www\tictactoe\TicTacToe\src\TicTacToeDll\obj\Debug\netcoreapp3.1\TicTacToeDll.pdb
